@@ -8,7 +8,7 @@ const LINES: Line[] = [
   { prompt: "whoami", output: "amit-b-naik" },
   { prompt: "cat role.txt", output: "Software Engineer · Full-Stack & Android · AI/ML" },
   { prompt: "cat location.txt", output: "Bengaluru, Karnataka, India" },
-  { prompt: "status --check", output: "open to Software Engineer / Full-Stack / Android roles", color: "mint" },
+  { prompt: "status --check", output: "open to Software Engineering / AI/ML / Full-Stack roles", color: "mint" },
 ];
 
 export default function TerminalPanel() {
