@@ -2,9 +2,9 @@
 
 export const profile = {
   name: "Amit B Naik",
-  role: "Software Engineer",
-  tagline: "Full-Stack & Android Developer, AI/ML Enthusiast",
-  headline: "Software Engineer, building practical intelligent applications",
+  role: "Aspiring Software Engineer",
+  tagline: "Python | Full-Stack | AI/ML | Generative AI",
+  headline: "Building practical AI-powered applications with Python, Java, and modern AI technologies",
   location: "Bengaluru, Karnataka, India",
   email: "amitn8996@gmail.com",
   phone: "+91 8904340847",
